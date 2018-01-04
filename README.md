@@ -22,6 +22,7 @@ packages only for this project.
     $ source venv/bin/activate
     $ pip install -r requirements.txt
     $ python setup.py develop
+    $ export LC_ALL=en_US.UTF8
 
 Running from the virtual environment
 ------------------------------------
